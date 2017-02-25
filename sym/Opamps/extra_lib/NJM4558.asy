@@ -16,7 +16,7 @@ WINDOW 3 16 96 Left 2
 SYMATTR Value njm4558C_s
 SYMATTR Prefix X
 SYMATTR Description DUAL OPERATIONAL AMPLIFIER NJM4558
-SYMATTR ModelFile D:\software\LTspiceXVII\lib\sub\xd_lib\njm4558C_v1.lib
+SYMATTR ModelFile extra_lib\njm4558C_v1.lib
 PIN -32 80 NONE 0
 PINATTR PinName In+
 PINATTR SpiceOrder 1
